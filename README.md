@@ -45,7 +45,7 @@ O projeto foi aprovado pela diretoria da empresa e está em utilização desde 2
 Cada etapa é monitorada e registrada com datas, atualizações, mudança de status e visualização dos usuários que executaram cada ação, possibilitando auditorias e  identificação de gargalos. Cada etapa do fluxo é monitorada no Power BI.  
 
 
-
+**Os dados utilizados no vídeos são totalmente fictícios**
 
 
 https://github.com/user-attachments/assets/db859722-e986-4e60-affb-9b54f9b3a5b7
