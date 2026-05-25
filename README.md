@@ -6,6 +6,14 @@ Com o objetivo de organizar e automatizar um fluxo de devoluções de produtos v
 ## Premiações
 O projeto foi premiado em 1º lugar na 1ª edição do programa Inova Nordesa Broker Nestlé. 
 
+## Minha atuação
+
+Após identificar que o processo era realizado manualmente — com solicitações e aprovações via e-mail, impressões físicas e constantes retrabalhos causados pela falta de centralização das informações — propus a criação de um ecossistema integrado para automatizar e padronizar toda a operação.
+
+Fui responsável pela idealização, desenvolvimento e implementação da solução.
+
+O projeto foi aprovado pela diretoria da empresa e está em utilização desde 2025.
+
 ## Funcionalidades
 
 * **Fluxo de Aprovação:** Processo automatizado e hierárquico para validação das solicitações.
