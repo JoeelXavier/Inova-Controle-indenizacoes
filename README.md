@@ -34,4 +34,15 @@ O projeto foi premiado em 1º lugar na 1ª edição do programa Inova Nordesa Br
 7. **Tratativas de logística:** Uma vez a solicitação aprovada, é iniciado o processo de recolhimento da devolução solicitada pelo cliente. Produtos são recolhidos, e a finalização e data do recolhimento são confirmadas na lista do SharePoint.
 8. **Fechamento - Setor de Faturamento:** Após recolhimento e conferência dos produtos devolvidos, é enviada a solicitação de pagamento da indenização para a indústria responsável.
 
-Cada etapa é monitorada e registrada com datas, atualizações, mudança de status e visualização dos usuários que executaram cada ação, possibilitando auditorias e  identificação de gargalos. Cada etapa do fluxo é monitorada no Power BI.   
+Cada etapa é monitorada e registrada com datas, atualizações, mudança de status e visualização dos usuários que executaram cada ação, possibilitando auditorias e  identificação de gargalos. Cada etapa do fluxo é monitorada no Power BI.  
+
+
+
+https://github.com/user-attachments/assets/65f5dcd1-916b-465f-9b7a-134bfa16a0bb
+
+
+https://github.com/user-attachments/assets/045231e8-d1fd-4ff1-8f20-7fb60c2cfaed
+
+40ca-93d1-deac1db9f608
+
+
